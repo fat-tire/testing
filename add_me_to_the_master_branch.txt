@@ -1,0 +1,6 @@
+Hi there.  I'm a file that really wants to be added to Erzorz's master branch!
+
+Can Erzorz figure out how to merge this file into his repository?
+
+Let's find out!
+
